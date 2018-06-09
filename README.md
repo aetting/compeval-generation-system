@@ -2,6 +2,8 @@
 
 This is the code for the generation system described in 'Assessing Composition in Sentence Vector Representations' (COLING 2018), by Allyson Ettinger, Ahmed Elgohary, Colin Phillips, and Philip Resnik.
 
+The **classification datasets** for the experiments described in the paper can be found [here](http://ling.umd.edu/~aetting/compeval.html).
+
 # Citation
 
 ```
