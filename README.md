@@ -57,6 +57,8 @@ The RC object can specify the following:
 * `rtype`: object-relative or subject-relative (`orc` or `src`)
 * `event`: the event described by the relative clause. The value here will be another EVENT object, as described above.
 
+Note that at present only one event object can be specified for a given constraint.
+
 ## Config file examples
 
 Config files are used to specify a) the input constraints for the sentences to be generated, and b) possible structures for the sentences.
