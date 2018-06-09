@@ -1,0 +1,343 @@
+{
+ "frames": {
+  "hit": "transitive", 
+  "follow": "transitive", 
+  "run": "intransitive", 
+  "help": "transitive", 
+  "love": "transitive", 
+  "dance": "intransitive", 
+  "support": "transitive", 
+  "watch": "transitive", 
+  "resign": "intransitive", 
+  "like": "transitive", 
+  "shout": "intransitive", 
+  "contact": "transitive", 
+  "sleep": "intransitive", 
+  "observe": "transitive", 
+  "recommend": "transitive", 
+  "call": "transitive", 
+  "advise": "transitive", 
+  "believe": "transitive", 
+  "hate": "transitive", 
+  "avoid": "transitive", 
+  "meet": "transitive"
+ }, 
+ "nxlist": [
+  "really", 
+  "actually", 
+  "fully", 
+  "absolutely", 
+  "totally", 
+  "entirely", 
+  "completely", 
+  "quickly", 
+  "clearly", 
+  "always", 
+  "often"
+ ], 
+ "verbs": {
+  "intransitive": [
+   "sleep", 
+   "dance", 
+   "run", 
+   "shout", 
+   "resign"
+  ], 
+  "transitive": [
+   "recommend", 
+   "call", 
+   "follow", 
+   "help", 
+   "support", 
+   "watch", 
+   "contact", 
+   "hit", 
+   "meet", 
+   "hate", 
+   "like", 
+   "believe", 
+   "love", 
+   "observe", 
+   "avoid", 
+   "advise"
+  ]
+ }, 
+ "inflections": {
+  "president": {
+   "sg": "president", 
+   "pl": "presidents"
+  }, 
+  "woman": {
+   "sg": "woman", 
+   "pl": "women"
+  }, 
+  "hit": {
+   "tensed": {
+    "past": "hit", 
+    "prespl": "hit", 
+    "pressg": "hits"
+   }, 
+   "pastpart": "hit", 
+   "prespart": "hitting"
+  }, 
+  "help": {
+   "tensed": {
+    "prespl": "help", 
+    "past": "helped", 
+    "pressg": "helps"
+   }, 
+   "pastpart": "helped", 
+   "prespart": "helping"
+  }, 
+  "dance": {
+   "tensed": {
+    "prespl": "dance", 
+    "past": "danced", 
+    "pressg": "dances"
+   }, 
+   "pastpart": "danced", 
+   "prespart": "dancing"
+  }, 
+  "assistant": {
+   "sg": "assistant", 
+   "pl": "assistants"
+  }, 
+  "student": {
+   "sg": "student", 
+   "pl": "students"
+  }, 
+  "watch": {
+   "tensed": {
+    "prespl": "watch", 
+    "past": "watched", 
+    "pressg": "watches"
+   }, 
+   "pastpart": "watched", 
+   "prespart": "watching"
+  }, 
+  "resign": {
+   "tensed": {
+    "past": "resigned", 
+    "prespl": "resign", 
+    "pressg": "resigns"
+   }, 
+   "pastpart": "resigned", 
+   "prespart": "resigning"
+  }, 
+  "scientist": {
+   "sg": "scientist", 
+   "pl": "scientists"
+  }, 
+  "professor": {
+   "sg": "professor", 
+   "pl": "professors"
+  }, 
+  "observe": {
+   "tensed": {
+    "prespl": "observe", 
+    "past": "observed", 
+    "pressg": "observes"
+   }, 
+   "pastpart": "observed", 
+   "prespart": "observing"
+  }, 
+  "sleep": {
+   "tensed": {
+    "past": "slept", 
+    "prespl": "sleep", 
+    "pressg": "sleeps"
+   }, 
+   "pastpart": "slept", 
+   "prespart": "sleeping"
+  }, 
+  "lawyer": {
+   "sg": "lawyer", 
+   "pl": "lawyers"
+  }, 
+  "follow": {
+   "tensed": {
+    "prespl": "follow", 
+    "past": "followed", 
+    "pressg": "follows"
+   }, 
+   "pastpart": "followed", 
+   "prespart": "following"
+  }, 
+  "judge": {
+   "sg": "judge", 
+   "pl": "judges"
+  }, 
+  "love": {
+   "tensed": {
+    "past": "loved", 
+    "prespl": "love", 
+    "pressg": "loves"
+   }, 
+   "pastpart": "loved", 
+   "prespart": "loving"
+  }, 
+  "girl": {
+   "sg": "girl", 
+   "pl": "girls"
+  }, 
+  "believe": {
+   "tensed": {
+    "past": "believed", 
+    "prespl": "believe", 
+    "pressg": "believes"
+   }, 
+   "pastpart": "believed", 
+   "prespart": "believing"
+  }, 
+  "hate": {
+   "tensed": {
+    "past": "hated", 
+    "prespl": "hate", 
+    "pressg": "hates"
+   }, 
+   "pastpart": "hated", 
+   "prespart": "hating"
+  }, 
+  "man": {
+   "sg": "man", 
+   "pl": "men"
+  }, 
+  "boy": {
+   "sg": "boy", 
+   "pl": "boys"
+  }, 
+  "child": {
+   "sg": "child", 
+   "pl": "children"
+  }, 
+  "senator": {
+   "sg": "senator", 
+   "pl": "senators"
+  }, 
+  "like": {
+   "tensed": {
+    "prespl": "like", 
+    "past": "liked", 
+    "pressg": "likes"
+   }, 
+   "pastpart": "liked", 
+   "prespart": "liking"
+  }, 
+  "doctor": {
+   "sg": "doctor", 
+   "pl": "doctors"
+  }, 
+  "banker": {
+   "sg": "banker", 
+   "pl": "bankers"
+  }, 
+  "support": {
+   "tensed": {
+    "past": "supported", 
+    "prespl": "support", 
+    "pressg": "supports"
+   }, 
+   "pastpart": "supported", 
+   "prespart": "supporting"
+  }, 
+  "shout": {
+   "tensed": {
+    "prespl": "shout", 
+    "past": "shouted", 
+    "pressg": "shouts"
+   }, 
+   "pastpart": "shouted", 
+   "prespart": "shouting"
+  }, 
+  "contact": {
+   "tensed": {
+    "prespl": "contact", 
+    "past": "contacted", 
+    "pressg": "contacts"
+   }, 
+   "pastpart": "contacted", 
+   "prespart": "contacting"
+  }, 
+  "run": {
+   "tensed": {
+    "prespl": "run", 
+    "past": "ran", 
+    "pressg": "runs"
+   }, 
+   "pastpart": "run", 
+   "prespart": "running"
+  }, 
+  "officer": {
+   "sg": "officer", 
+   "pl": "officers"
+  }, 
+  "recommend": {
+   "tensed": {
+    "prespl": "recommend", 
+    "past": "recommended", 
+    "pressg": "recommends"
+   }, 
+   "pastpart": "recommended", 
+   "prespart": "recommending"
+  }, 
+  "call": {
+   "tensed": {
+    "prespl": "call", 
+    "past": "called", 
+    "pressg": "calls"
+   }, 
+   "pastpart": "called", 
+   "prespart": "calling"
+  }, 
+  "advise": {
+   "tensed": {
+    "prespl": "advise", 
+    "past": "advised", 
+    "pressg": "advises"
+   }, 
+   "pastpart": "advised", 
+   "prespart": "advising"
+  }, 
+  "secretary": {
+   "sg": "secretary", 
+   "pl": "secretaries"
+  }, 
+  "avoid": {
+   "tensed": {
+    "past": "avoided", 
+    "prespl": "avoid", 
+    "pressg": "avoids"
+   }, 
+   "pastpart": "avoided", 
+   "prespart": "avoiding"
+  }, 
+  "meet": {
+   "tensed": {
+    "past": "met", 
+    "prespl": "meet", 
+    "pressg": "meets"
+   }, 
+   "pastpart": "met", 
+   "prespart": "meeting"
+  }
+ }, 
+ "nouns": [
+  "professor", 
+  "student", 
+  "man", 
+  "woman", 
+  "president", 
+  "child", 
+  "girl", 
+  "boy", 
+  "judge", 
+  "senator", 
+  "secretary", 
+  "doctor", 
+  "lawyer", 
+  "scientist", 
+  "banker", 
+  "assistant", 
+  "officer"
+ ]
+}

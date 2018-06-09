@@ -1,0 +1,11 @@
+
+{
+  "transitive" :
+  ["recommend", "call", "follow","help","support","watch","contact","hit","meet","hate","like","believe","love","observe","avoid","advise"],
+  "intransitive" :
+  ["sleep", "dance", "run","shout","resign"],
+  "noun" :
+  ["professor", "student", "man","woman","president","child","girl","boy","judge","senator","secretary","doctor","lawyer","scientist","banker","assistant","officer"],
+  "adverbs":
+  ["really", "actually", "fully", "absolutely","totally","entirely","completely","quickly","clearly","always","often"]
+}

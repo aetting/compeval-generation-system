@@ -1,0 +1,36 @@
+
+COP[NUM='pl',TENSE='past',POL='pos'] -> 'were'
+COP[NUM='sg',TENSE='past',POL='pos'] -> 'was'
+COP[NUM='pl',TENSE='pres',POL='pos'] -> 'are'
+COP[NUM='sg',TENSE='pres',POL='pos'] -> 'is'
+
+# COP[NUM='pl',TENSE='past',POL='neg'] -> 'were not' | "were n't"
+# COP[NUM='sg',TENSE='past',POL='neg'] -> 'was not' | "was n't"
+# COP[NUM='pl',TENSE='pres',POL='neg'] -> 'are not' | "are n't"
+# COP[NUM='sg',TENSE='pres',POL='neg'] -> 'is not' | "is n't"
+
+COP[NUM='pl',TENSE='past',POL='neg'] -> 'were not'
+COP[NUM='sg',TENSE='past',POL='neg'] -> 'was not'
+COP[NUM='pl',TENSE='pres',POL='neg'] -> 'are not'
+COP[NUM='sg',TENSE='pres',POL='neg'] -> 'is not'
+
+COP[TENSE='bare',INF='prespart'] -> 'being'
+
+DS[TENSE='past',POL='pos'] -> 'did'
+DS[NUM='pl',TENSE='pres',POL='pos'] -> 'do'
+DS[NUM='sg',TENSE='pres',POL='pos'] -> 'does'
+
+# DS[TENSE='past',POL='neg'] -> 'did not' | "did n't"
+# DS[NUM='pl',TENSE='pres',POL='neg'] -> 'do not' | "do n't"
+# DS[NUM='sg',TENSE='pres',POL='neg'] -> 'does not' | "does n't"
+
+DS[TENSE='past',POL='neg'] -> 'did not'
+DS[NUM='pl',TENSE='pres',POL='neg'] -> 'do not'
+DS[NUM='sg',TENSE='pres',POL='neg'] -> 'does not'
+
+
+# D -> 'the'
+ADV -> 'very'
+T -> 'that'
+B -> 'by'
+W -> 'which'
